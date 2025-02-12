@@ -11,6 +11,7 @@
 - $ `chmod +x v-ddos.py`
 - $ `python2 v-ddos.py`
 
+   LINUX INSTALLATION
 - $ `sudo apt update && apt upgrade`
 - $ `sudo apt install python`
 - $ `sudo apt install python2`
