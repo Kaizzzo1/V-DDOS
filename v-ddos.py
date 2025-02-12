@@ -29,7 +29,7 @@ port = input("Port       : ")
 os.system("clear")
 print("\033[93m")
 os.system("figlet DdoS Attack")
-print("Team : T34m V18rs")
+print("Team : ANONBLACK404")
 print ("\033[92m")
 print "[                    ] 0% "
 time.sleep(5)
