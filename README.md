@@ -5,7 +5,7 @@
 - $ `pkg install python2`
 - $ `pkg install git`
 - $ `pkg install figlet`
-- $ `git clone https://www.github.com/T34mV18rs/V-DdoS.git`
+- $ `git clone https://github.com/Kaizzzo1/V-DDOS.git`
 - $ `cd V-DDOS`
 - $ `chmod +x v-ddos.py`
 - $ `python2 v-ddos.py`
@@ -16,7 +16,7 @@
 - $ `sudo apt install python2`
 - $ `sudo apt install git`
 - $ `sudo apt install figlet`
-- $ `git clone https://www.github.com/T34mV18rs/V-DdoS.git`
+- $ `git clone https://github.com/Kaizzzo1/V-DDOS.git`
 - $ `cd V-DDOS`
 - $ `chmod +x v-ddos.py`
 - $ `python2 v-ddos.py`
@@ -26,4 +26,3 @@
 
 - $ `cd V-DDOS`
 - $ `python2 v-ddos.py`
-
