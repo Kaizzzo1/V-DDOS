@@ -1,5 +1,4 @@
-# V-DdoS<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
-
+# V-DDOS
    TERMUX INSTALLATION
 - $ `apt update && apt upgrade`
 - $ `pkg install python`
